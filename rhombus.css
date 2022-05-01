@@ -49,10 +49,10 @@ tr:nth-child(4n)>td:nth-child(even) span{
 	transform:skewY(-30deg)
 }
 td{
-	width:calc(var(--)*.866)
+	width:calc(var(---)*.866)
 }
 tr:nth-child(odd)>td{
-	height:calc(var(--)/2)
+	height:calc(var(---)/2)
 }
 td[colspan]{
 	transform:rotate(-30deg)skew(30deg)scale(.577,1.732)

@@ -13,9 +13,9 @@ table{
 	table-layout:fixed
 }
 td{
-	width:var(--,12vmin);
-	height:var(--,12vmin);
-	font-size:calc(var(--,12vmin)*.75);
+	width:var(---,12vmin);
+	height:var(---,12vmin);
+	font-size:calc(var(---,12vmin)*.75);
 	vertical-align:middle;
 	text-align:center;
 	position:relative;

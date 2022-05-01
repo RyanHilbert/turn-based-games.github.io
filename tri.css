@@ -14,9 +14,9 @@
 }
 td{
 	display:inline-block;
-	height:calc(var(--,12vmin)*.866);
-	margin-right:calc(var(--,12vmin)/-2);
-	font-size:calc(var(--,12vmin)*.5);
+	height:calc(var(---,12vmin)*.866);
+	margin-right:calc(var(---,12vmin)/-2);
+	font-size:calc(var(---,12vmin)*.5);
 	text-align:left;
 	line-height:1;
 	transform:skew(30deg)
